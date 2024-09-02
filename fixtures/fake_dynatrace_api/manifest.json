@@ -1,0 +1,12 @@
+{
+  "technologies": {
+    "process": {
+      "windows-x86-64": [
+        {
+          "path": "agent/lib64/oneagentloader.so",
+          "binarytype": "loader"
+        }
+      ]
+    }
+  }
+}
